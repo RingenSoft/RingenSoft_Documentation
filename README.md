@@ -1,1 +1,0 @@
-# RingenSoft_FrontEnd

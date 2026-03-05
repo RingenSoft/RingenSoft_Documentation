@@ -44,6 +44,13 @@ RingenSoft es un ecosistema híbrido diseñado para modernizar la gestión de fl
 
 ---
 
+## 🛰️ Próximo Hito: Engine de Visión Computacional (Alpha)
+Estamos trabajando en la integración de un modelo de **Computer Vision** basado en redes neuronales (CNN) para el procesamiento de imágenes satelitales multiespectrales.
+
+* **Procesamiento:** Filtrado de reflectancia para detección de biomasa superficial.
+* **IA:** Entrenamiento de modelos para la clasificación de especies según morfología de cardúmenes.
+* **Objetivo:** Eliminar la dependencia de reportes externos y generar alertas de pesca autónomas.
+
 ## 📦 Despliegue Rápido
 
 ### 1️⃣ Clonar y Backend
@@ -59,3 +66,5 @@ pip install -r requirements.txt
 
 # Iniciar servidor
 uvicorn main:app --reload
+
+
